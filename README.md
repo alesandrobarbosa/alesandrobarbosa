@@ -83,7 +83,7 @@ Abroad Experiences working as Front end:
 
 ### Where to find me :mag:  
 
-[![Linkedin: Alesandro Barbosa](https://img.shields.io/badge/-alesandrobarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alesandrobarbosa)](https://www.linkedin.com/in/daniel-pinna-28895265/)
+[![Linkedin: Alesandro Barbosa](https://img.shields.io/badge/-alesandrobarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alesandrobarbosa)](https://www.linkedin.com/in/alesandrobarbosa/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barbosa.alesandro@gmail.com)](mailto:barbosa.alesandro@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521983451493&text=Olá!)](https://api.whatsapp.com/send?phone=5521983451493&text=Olá!)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlesandroBarbosa.AlesandroBarbosa)

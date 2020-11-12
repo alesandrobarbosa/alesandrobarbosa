@@ -1,4 +1,4 @@
-![capa github](https://github.com/alesandrobarbosa/alesandrobarbosa/blob/main/images/cover.png)  
+![cover github](https://github.com/alesandrobarbosa/alesandrobarbosa/blob/main/images/cover.png)  
 
 
 <center>
@@ -35,8 +35,14 @@ Abroad Experiences working as Front end:
 - Angola (Southern Africa)
 - Australia (Asia-Pacific)
  
+---
+
+#### Hackerrank profile
+
+<a href="https://www.hackerrank.com/alesandrobarbosa" target="_blank"><img height="64px" src="https://raw.githubusercontent.com/alesandrobarbosa/alesandrobarbosa/main/images/hackerrank.png"></a>
 
 ---
+
 ### Technologies
 <table>
   <tbody>

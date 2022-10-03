@@ -93,5 +93,19 @@ Abroad Experiences working as Front end:
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
+    <tr valign="top">
+       <td width="25%" align="center">
+        <span>React Query</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react-query-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Sass</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Typescript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
